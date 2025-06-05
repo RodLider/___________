@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: url('https://i.imgur.com/m1HgDnr.png') no-repeat center center fixed;
+            background: url('https://i.imgur.com/aPLuDmc.jpeg') no-repeat center center fixed;
             background-size: cover;
             text-align: center;
             padding: 20px;
